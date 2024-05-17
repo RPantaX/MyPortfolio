@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cb54ed0b.css",
+    "main.js": "/static/js/main.e7711f3a.js",
+    "static/media/modelo-microservice.png": "/static/media/modelo-microservice.e6dd384adf64d8262fd8.png",
+    "static/media/Gifts-Generator.png": "/static/media/Gifts-Generator.fe2cd27aea52ee3ac8c7.png",
+    "static/media/Panda.png": "/static/media/Panda.98e5566897439e7aea10.png",
+    "static/media/S-logo.png": "/static/media/S-logo.df9fcea472c08bf968c1.png",
+    "static/media/Photo_fw14_056.jpeg": "/static/media/Photo_fw14_056.cffe2a13b1fff16c9664.jpeg",
+    "index.html": "/index.html",
+    "main.cb54ed0b.css.map": "/static/css/main.cb54ed0b.css.map",
+    "main.e7711f3a.js.map": "/static/js/main.e7711f3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb54ed0b.css",
+    "static/js/main.e7711f3a.js"
+  ]
+}
